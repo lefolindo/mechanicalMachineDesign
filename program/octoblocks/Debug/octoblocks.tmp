@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega328"</DEVICE>
+ <WORKING_DIR>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1103\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1103\avrassembler\Include\m328def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\Debug/octoblocks.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>octoblocks.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>octoblocks.map</FILE>
+  <FILE>octoblocks.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</FILE><LINE>55</LINE></inicio>
+  <Timer2_COMPA><FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</FILE><LINE>422</LINE></Timer2_COMPA>
+  <Timer2_COMPB><FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</FILE><LINE>436</LINE></Timer2_COMPB>
+  <TIM2_OVF><FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</FILE><LINE>451</LINE></TIM2_OVF>
+  <Timer0_COMPA><FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</FILE><LINE>465</LINE></Timer0_COMPA>
+  <Timer0_COMPB><FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</FILE><LINE>479</LINE></Timer0_COMPB>
+  <TIM0_OVF><FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</FILE><LINE>494</LINE></TIM0_OVF>
+  <retardo100><FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</FILE><LINE>533</LINE></retardo100>
+  <lazo><FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</FILE><LINE>185</LINE></lazo>
+  <retardo><FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</FILE><LINE>513</LINE></retardo>
+  <Lazo_retardo><FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</FILE><LINE>520</LINE></Lazo_retardo>
+  <lazo_retardo_100><FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</FILE><LINE>537</LINE></lazo_retardo_100>
+  <RETARDO2_500><FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</FILE><LINE>550</LINE></RETARDO2_500>
+  <lazo_retardo_1000><FILE>C:\Users\Lefo\Documents\Atmel Studio\6.2\octoblocks\octoblocks\octoblocks.asm</FILE><LINE>555</LINE></lazo_retardo_1000>
+ </LABELS>
+</ASSEMBLER_INFO>
